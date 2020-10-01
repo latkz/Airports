@@ -5,11 +5,11 @@
             "name": "(gdb) Bash on Windows Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "/mnt/c/C++Projects/test/a.out(注意修改)",
+            "program": "/mnt/c/Users/zou12/Documents/GitHub/Airports/Code/CPP/#1/test/helloworld.out",
             "args": [],
             "stopAtEntry": false,
             "miDebuggerArgs": "",
-            "cwd": "/mnt/c/C++Projects/test/(注意修改)",
+            "cwd": "/mnt/c/Users/zou12/Documents/GitHub/Airports/Code/CPP/#1/test",
             "environment": [],
             "externalConsole": false,
             "sourceFileMap": {
